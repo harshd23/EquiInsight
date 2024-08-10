@@ -2,7 +2,7 @@
 
 EquiInsight is a specialised user-friendly platform made for investors, analysts, and financial professionals who specialise in equity markets. It is intended to make information retrieval simple. To get pertinent insights from the stock market and financial sphere, users can ask queries and input the URLs of articles.
 
-![EquiInsight](equiinsight.png)
+![EquiInsight](https://github.com/harshd23/EquiInsight/blob/main/equiinsight.png)
 
 ## Technologies Used:-
 
@@ -36,7 +36,7 @@ EquiInsight is a specialised user-friendly platform made for investors, analysts
 1.Clone this repository to your local machine using:
 
 ```bash
-  git clone {URL}
+  git clone https://github.com/harshd23/EquiInsight.git
 ```
 
 2.Install the required dependencies using pip:
@@ -49,7 +49,7 @@ EquiInsight is a specialised user-friendly platform made for investors, analysts
 
 ```bash
   HF_TOKEN = your_huggingface_token
-  GROQ_API_KEY=your_api_key_here
+  GROQ_API_KEY = your_api_key_here
 ```
 
 ## Usage of the project:-
